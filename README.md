@@ -1,1 +1,1 @@
-<img src="https://raw.githubusercontent.com/Svznify/Svznify/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/MarcUs7i/MarcUs7i/output/snake.svg" alt="Snake animation" />
