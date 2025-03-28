@@ -1,0 +1,1 @@
+<img src="https://raw.githubusercontent.com/Svznify/Svznify/output/snake.svg" alt="Snake animation" />
